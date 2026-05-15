@@ -1,0 +1,14 @@
+{
+  "name": "NZ-web | סוכנות דיגיטל פרימיום",
+  "short_name": "NZ-web",
+  "description": "סוכנות דיגיטל פרימיום לבניית אתרים ופיתוח מערכות Web.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060509",
+  "theme_color": "#060509",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

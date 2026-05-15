@@ -1,4 +1,17 @@
+# NZ-web — https://nz-web.com
 User-agent: *
 Allow: /
+Disallow: /assets/
 
+# AI / answer engines are welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Host: https://nz-web.com
 Sitemap: https://nz-web.com/sitemap.xml
