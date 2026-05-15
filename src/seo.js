@@ -79,7 +79,7 @@ const organization = {
     contactType: 'sales',
     availableLanguage: ['he', 'en'],
   },
-  sameAs: [SITE_URL],
+  sameAs: [CONTACT_INFO.site],
 };
 
 const website = {

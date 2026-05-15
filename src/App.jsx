@@ -61,7 +61,9 @@ const VIEWS = Object.freeze({
   CONTACT: 'contact',
 });
 
-export const SITE_URL = 'https://nz-web.com';
+/* Canonical URL of THIS deployment (the agency site).
+   CONTACT_INFO.site above points to the main brand site (nz-web.com). */
+export const SITE_URL = 'https://nz-web-agency.netlify.app';
 
 /* Single source of truth for routing + SEO metadata.
    Used by the app (client routing), useSEO, entry-server and prerender. */

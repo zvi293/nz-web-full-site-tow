@@ -1,4 +1,4 @@
-# NZ-web — https://nz-web.com
+# NZ-web Agency — https://nz-web-agency.netlify.app
 User-agent: *
 Allow: /
 Disallow: /assets/
@@ -13,5 +13,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Host: https://nz-web.com
-Sitemap: https://nz-web.com/sitemap.xml
+Host: https://nz-web-agency.netlify.app
+Sitemap: https://nz-web-agency.netlify.app/sitemap.xml
