@@ -26,4 +26,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://nz-web-agency.netlify.app/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="he-IL" href="https://nz-web-agency.netlify.app/privacy-policy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://nz-web-agency.netlify.app/accessibility-statement</loc>
+    <xhtml:link rel="alternate" hreflang="he-IL" href="https://nz-web-agency.netlify.app/accessibility-statement" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
 </urlset>
